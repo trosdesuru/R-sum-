@@ -14,7 +14,8 @@ el programa Visual Studio Code.
     - *Nueva UI en la sección de proyectos*
     - *...*
 - **Última actualización:** 06/03/2025
-- **Estado del código:** ✅ Funcional en desarrollo
+- **Estado del código:**
+- ✅ *Funcional en desarrollo*
 
 
 ## 🛠️ Tecnologías Utilizadas
