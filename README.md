@@ -54,7 +54,7 @@ Si deseas acceder al código, contáctame:
 
 Si te interesa contribuir de alguna manera, puedes hacerlo a través de:
 - Reporte de issues
-- Sugerencias de mejoras Forkeando o realizando una Pull Request
+- Sugerencias de mejoras Forkeando o realizando un Pull Request
 - Donaciones para apoyar el desarrollo 
 
 ¡Gracias por tu interés en este proyecto!
