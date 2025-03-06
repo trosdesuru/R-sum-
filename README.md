@@ -9,7 +9,10 @@ el programa Visual Studio Code.
 
 ## 📌 Estado Actual
 
-- **Fase:** Nuevas funcionalidades en marcha como, sección para descargar CV, nueva UI en la sección de proyectos...
+- **Fase:** Nuevas funcionalidades en marcha como:
+    - *sección para descargar CV*
+    - *Nueva UI en la sección de proyectos*
+    - *...*
 - **Última actualización:** 06/03/2025
 - **Estado del código:** ✅ Funcional en desarrollo
 
