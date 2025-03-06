@@ -11,7 +11,7 @@ el programa Visual Studio Code.
 
 - **Fase:** Nuevas funcionalidades en marcha como, sección para descargar CV, nueva UI en la sección de proyectos...
 - **Última actualización:** 06/03/2025
-- **Estado del código:** ✅ Funcional en desarrollo / 🔄 En iteración
+- **Estado del código:** ✅ Funcional en desarrollo
 
 
 ## 🛠️ Tecnologías Utilizadas
